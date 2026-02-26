@@ -57,6 +57,7 @@ Do giới hạn hệ thống iOS, cần sử dụng App trung gian hỗ trợ BL
 - Cần bật Bluetooth trước khi sử dụng
 - Đảm bảo thiết bị đã vào chế độ kết nối BLE
 - Sử dụng phiên bản trình duyệt / App mới nhất để tránh lỗi
+- PASS mặc định 0000  / có thể đổi bên trong cài đặt > bluetooth
 
 ---
 
