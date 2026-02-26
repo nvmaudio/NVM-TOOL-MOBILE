@@ -15,11 +15,48 @@
 
 ---
 
-## 📥 Tải xuống
-Phiên bản mới nhất của **NVM-TOOL-MOBILE** được phát hành tại online tại: https://v4.nvmaudio.id.vn/
+## 📥 Tải xuống – NVM-TOOL-MOBILE
 
-Android  Dùng Trình Duyệt Chrome để mở URL tool trên > [...] > [Lưu ra màn hình chính]
-IOS      Tải 1 trong 2 Ứng dụng trên Apple Store : [BLE Link] hoặc [Blufye] rồi vào mở URL trên 
+Phiên bản mới nhất của **NVM-TOOL-MOBILE** được phát hành online tại:
+
+🔗 **https://v4.nvmaudio.id.vn/**
+
+---
+
+## 📱 Hướng dẫn sử dụng theo nền tảng
+
+### 🤖 Android
+
+1. Mở trình duyệt **Google Chrome**
+2. Truy cập URL: https://v4.nvmaudio.id.vn/
+3. Nhấn dấu **⋮ (ba chấm)** góc trên bên phải
+4. Chọn **“Thêm vào màn hình chính”** (Add to Home screen)
+5. Biểu tượng Tool sẽ xuất hiện như một App độc lập
+
+> ✅ Khuyến nghị sử dụng Chrome để đảm bảo hoạt động ổn định
+
+---
+
+### 🍎 iOS (iPhone / iPad)
+
+Do giới hạn hệ thống iOS, cần sử dụng App trung gian hỗ trợ BLE:
+
+1. Tải **một trong hai ứng dụng** trên App Store:
+   - BLE Link
+   - Blufye
+2. Mở ứng dụng vừa cài
+3. Nhập URL: https://v4.nvmaudio.id.vn/
+4. Kết nối thiết bị và sử dụng Tool
+
+> ⚠ iOS không hỗ trợ BLE trực tiếp trên Safari nên bắt buộc dùng App trung gian
+
+---
+
+## ℹ Lưu ý
+
+- Cần bật Bluetooth trước khi sử dụng
+- Đảm bảo thiết bị đã vào chế độ kết nối BLE
+- Sử dụng phiên bản trình duyệt / App mới nhất để tránh lỗi
 
 ---
 
