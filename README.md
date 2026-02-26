@@ -1,7 +1,7 @@
 # NVM-TOOL-MOBILE
 
 <p align="center">
-  <b>Công cụ hiệu chỉnh các hiệu ứng âm thanh NVM-TOOL-PC</b><br>
+  <b>Công cụ hiệu chỉnh các hiệu ứng âm thanh NVM-TOOL-MOBILE</b><br>
   Đơn giản • Nhanh chóng • Trực quan
 </p>
 
