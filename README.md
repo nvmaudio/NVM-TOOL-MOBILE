@@ -30,7 +30,7 @@ Phiên bản mới nhất của **NVM-TOOL-MOBILE** được phát hành online 
 ### 🤖 Android
 
 1. Mở trình duyệt **Google Chrome**
-2. Truy cập URL: https://v4.nvmaudio.id.vn/
+2. Truy cập URL: https://v4.nvmaudio.id.vn/ hay https://v4.Ant39.com/
 3. Nhấn dấu **⋮ (ba chấm)** góc trên bên phải
 4. Chọn **“Thêm vào màn hình chính”** (Add to Home screen)
 5. Biểu tượng Tool sẽ xuất hiện như một App độc lập
