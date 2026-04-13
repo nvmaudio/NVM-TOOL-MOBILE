@@ -19,17 +19,10 @@
 
 Phiên bản mới nhất của **NVM-TOOL-MOBILE** được phát hành online tại:
 
-V4: Cho  các phiên bản Fw V4.0.X
+V4: Cho  các phiên bản Fw V4.0.X : 🔗 **https://v4.ant39.com/**
 
-🔗 **https://v4.ant39.com/**
+V4.1: Cho  các phiên bản Fw V4.1.X : 🔗 **https://v41.ant39.com/**
 
-🔗 **https://v4.nvmaudio.id.vn/**
-
-V4.1: Cho  các phiên bản Fw V4.1.X
-
-🔗 **https://v41.ant39.com/**
-
-🔗 **https://v41.nvmaudio.id.vn/**
 
 ---
 
