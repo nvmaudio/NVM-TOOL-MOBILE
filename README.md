@@ -24,6 +24,8 @@ V4: Cho  các phiên bản Fw V4.0.X : 🔗 **https://v4.ant39.com/**
 V4.1: Cho  các phiên bản Fw V4.1.X : 🔗 **https://v41.ant39.com/**
 
 V4.2: Cho  các phiên bản Fw V4.2.X : 🔗 **https://v42.ant39.com/**
+
+
 ---
 
 ## 📱 Hướng dẫn sử dụng theo nền tảng
